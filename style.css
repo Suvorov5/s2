@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(167, 112, 29, 0.719);
+}
+
+p {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: white;
+    padding: 10px;
+}
+
+header img {
+    height: 50px;
+    width: 750px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+main p {
+    padding: 50px;
+    background-color: white;
+    border-radius: 30px;
+    margin: 20px;
+
+
+}
+
+main img {
+    height: 200px;
+    width: 700px;
+}
+
+footer {
+    padding: 30px;
+}
+.icon{
+    width:50px;
+    height: 50px;
+}
+.marker{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.text {
+    width: 300px;
+}
+.right {
+    text-align: right;
+}
+main p:hover {
+    transform: scale(1.1);
+    transition: 0.3s linear;
+
+}
